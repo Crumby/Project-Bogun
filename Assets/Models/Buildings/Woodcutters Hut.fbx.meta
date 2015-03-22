@@ -1,14 +1,65 @@
 fileFormatVersion: 2
-guid: f312967f76e8e8d4c8ed43c3deba347a
+guid: bca0362ad2170b546a22c039fc23f4f8
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Plane
-    6400000: //RootNode
+    100000: Plane
+    100002: Wood1
+    100004: Wood10
+    100006: Wood2
+    100008: Wood3
+    100010: Wood4
+    100012: Wood5
+    100014: Wood6
+    100016: Wood7
+    100018: Wood8
+    100020: Wood9
+    100022: //RootNode
+    400000: Plane
+    400002: Wood1
+    400004: Wood10
+    400006: Wood2
+    400008: Wood3
+    400010: Wood4
+    400012: Wood5
+    400014: Wood6
+    400016: Wood7
+    400018: Wood8
+    400020: Wood9
+    400022: //RootNode
+    2300000: Plane
+    2300002: Wood1
+    2300004: Wood10
+    2300006: Wood2
+    2300008: Wood3
+    2300010: Wood4
+    2300012: Wood5
+    2300014: Wood6
+    2300016: Wood7
+    2300018: Wood8
+    2300020: Wood9
+    3300000: Plane
+    3300002: Wood1
+    3300004: Wood10
+    3300006: Wood2
+    3300008: Wood3
+    3300010: Wood4
+    3300012: Wood5
+    3300014: Wood6
+    3300016: Wood7
+    3300018: Wood8
+    3300020: Wood9
+    4300000: Wood10
+    4300002: Wood9
+    4300004: Wood8
+    4300006: Wood7
+    4300008: Wood6
+    4300010: Wood5
+    4300012: Wood4
+    4300014: Wood3
+    4300016: Wood2
+    4300018: Wood1
+    4300020: Plane
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -29,9 +80,9 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 3
+    globalScale: 4
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
