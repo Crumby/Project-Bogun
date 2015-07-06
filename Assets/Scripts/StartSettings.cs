@@ -1,15 +1,16 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DayNight : MonoBehaviour {
+public class StartSettings : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		QualitySettings.vSyncCount = 0;
+
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		this.transform.Rotate ((new Vector3 (1, 1, 1)) * Time.deltaTime);
+	
 	}
 }
